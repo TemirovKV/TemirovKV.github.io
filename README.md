@@ -15,7 +15,6 @@
   </style>
 </head>
 <body>
-  <!--START HEADER-->
   <header class = 'header'>
     <div class = 'container'>
       
@@ -24,11 +23,7 @@
         <img class = 'logo-img' src='img/logo.jpg' width="100px" height="100px">
         <h1 class = 'logo-title'>Comics</h1>
       </div>
-      
-      
-      <!--END BLOCK LOGO-->
-    
-      <!--START BLOCK MENU-->
+
       <div class = 'header-menu'>
         <ul class = 'menu'>
           <li class = 'menu-item'>
